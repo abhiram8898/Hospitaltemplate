@@ -1,5 +1,6 @@
 function validate() {
     email = document.getElementById("email").value;
+
     var e =
         /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 
