@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ourservices {
+    background-color: rgba(215, 241, 246, 255);
+}
+
+.m {
+    margin-top: -40px;
+}
